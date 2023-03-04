@@ -1,8 +1,8 @@
-## Virtual Paint
+# Virtual Paint
 The Virtual Paint application allows you to draw on a live feed from your webcam using nothing but the movements of your hand. The application is coded in Python using OpenCV. 
 
 
-# Usage 
+## Usage 
 Simply run the file and a window will open showing
 a live feed of your webcam. Using any small RED object,
 move it around the screen to draw. You can change the color
