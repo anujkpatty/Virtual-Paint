@@ -1,23 +1,17 @@
-name: Anuj Patel\
-pennkey: anujpat\
-hours: 15 (mostly spent learning openCV)
+## Virtual Paint
+The Virtual Paint application allows you to draw on a live feed from your webcam using nothing but the movements of your hand. The application is coded in Python using OpenCV. 
 
 
-packages needed: \
-numpy and opencv-python
-
-_must have webcam on computer!_
-
-instructions:\
-simply run the file and a window will open showing
-a live feed of your webcam. using any small RED object,
-move it around the screen to draw. you can change the color
+# Usage 
+Simply run the file and a window will open showing
+a live feed of your webcam. Using any small RED object,
+move it around the screen to draw. You can change the color
 using the number keys or using the color sliders,
 clear the screen by pressing 'c', 
 pause the drawing by pressing space, and quit the 
-program by pressing 'q'. if the program is having
+program by pressing 'q'. If the program is having
 difficulty locating your red object, try adjusting
 the lighting in the room or using a different object.
-for testing i used a red marker cap.
-the color masking values can be adjusted on line 96
+For testing I used a red marker cap.
+The color masking values can be adjusted on line 96
 and 97 if needed.
